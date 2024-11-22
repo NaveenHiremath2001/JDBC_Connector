@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/connector-sdk-scala" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jdbc-connector" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/job-sdk-scala" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/object-store-connector" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/obsrv-api-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/obsrv-core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/obsrv-python-sdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/obsrv-web-console" vcs="Git" />
+  </component>
+</project>

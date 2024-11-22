@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/obsrv-core/dataset-registry/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/obsrv-core/dataset-registry/src/main/scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/obsrv-core/framework/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/obsrv-core/framework/src/main/scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/obsrv-core/pipeline/cache-indexer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/obsrv-core/pipeline/cache-indexer/src/main/scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/obsrv-core/pipeline/dataset-router/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/obsrv-core/pipeline/dataset-router/src/main/scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/obsrv-core/pipeline/denormalizer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/obsrv-core/pipeline/denormalizer/src/main/scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/obsrv-core/pipeline/extractor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/obsrv-core/pipeline/extractor/src/main/scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/obsrv-core/pipeline/hudi-connector/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/obsrv-core/pipeline/hudi-connector/src/main/scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/obsrv-core/pipeline/preprocessor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/obsrv-core/pipeline/preprocessor/src/main/scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/obsrv-core/pipeline/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/obsrv-core/pipeline/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/obsrv-core/pipeline/transformer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/obsrv-core/pipeline/transformer/src/main/scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/obsrv-core/pipeline/unified-pipeline/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/obsrv-core/pipeline/unified-pipeline/src/main/scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/obsrv-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/obsrv-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/obsrv-core/transformation-sdk/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/obsrv-core/transformation-sdk/src/main/scala" charset="UTF-8" />
+  </component>
+</project>
