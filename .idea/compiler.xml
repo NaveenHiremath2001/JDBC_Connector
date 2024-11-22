@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="data-products" />
+        <module name="hudi-connector" />
+        <module name="framework" />
+        <module name="dataset-router" />
+        <module name="denormalizer" />
+        <module name="dataset-registry" />
+        <module name="preprocessor" />
+        <module name="transformer" />
+        <module name="extractor" />
+        <module name="unified-pipeline" />
+        <module name="transformation-sdk" />
+        <module name="cache-indexer" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
